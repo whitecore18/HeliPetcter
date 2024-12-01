@@ -1,0 +1,1 @@
+class Pet(val weight: Double, val nickname: String, val type: PetType)

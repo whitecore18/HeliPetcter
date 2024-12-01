@@ -1,0 +1,1 @@
+enum class PetType     { COW, GOOSE, DOG, CAT }
